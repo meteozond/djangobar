@@ -1,1 +1,2 @@
-Jus generating page with development progress bar using information from  
+Generating page with development progress bars for all
+versions using information form code.djangoproject.com api.
